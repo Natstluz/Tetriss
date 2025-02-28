@@ -1,1 +1,2 @@
-print('залупа')
+import pygame
+import random
